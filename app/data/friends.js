@@ -1,7 +1,7 @@
-var friendsArray = [
+exports.friends = [
     {
         "name": "Alison",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "photo": "",
         "scores": [
             5, 1, 4, 4, 5, 1, 2, 5, 4, 1
         ]
@@ -28,7 +28,7 @@ var friendsArray = [
         ]
     },
     {
-        "name": "Eve",
+        "name": "Esther",
         "photo": "",
         "scores": [
             1, 1, 2, 2, 3, 3, 4, 4, 5, 5
